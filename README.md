@@ -1,7 +1,10 @@
 
 # SchoolCyberSec
+Analysis of website security of Czech Secondary Education Facilities
 
-TBU
+## Datasets used
+- ARES by Ministry of Finance
+- Czech School Inspectorate data
 
 ## How to deploy and use the demo
 
