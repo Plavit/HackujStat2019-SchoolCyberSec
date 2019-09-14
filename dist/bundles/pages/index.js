@@ -67,34 +67,78 @@ module.exports =
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 0);
+/******/ 	return __webpack_require__(__webpack_require__.s = 2);
 /******/ })
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-module.exports = __webpack_require__(1);
-
+module.exports = require("react");
 
 /***/ }),
 /* 1 */
+/***/ (function(module, exports) {
+
+module.exports = require("react-dom");
+
+/***/ }),
+/* 2 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__(3);
+
+
+/***/ }),
+/* 3 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_dom__ = __webpack_require__(3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_dom___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react_dom__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_next_redux_wrapper__ = __webpack_require__(4);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_next_redux_wrapper___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_next_redux_wrapper__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react_simple_maps__ = __webpack_require__(5);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react_simple_maps___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_react_simple_maps__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_d3_scale__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_d3_scale___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_d3_scale__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_react_tooltip__ = __webpack_require__(7);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_react_tooltip___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_react_tooltip__);
+
+// EXTERNAL MODULE: external "react"
+var external__react_ = __webpack_require__(0);
+var external__react__default = /*#__PURE__*/__webpack_require__.n(external__react_);
+
+// EXTERNAL MODULE: external "react-dom"
+var external__react_dom_ = __webpack_require__(1);
+var external__react_dom__default = /*#__PURE__*/__webpack_require__.n(external__react_dom_);
+
+// EXTERNAL MODULE: external "@material-ui/core/Button"
+var Button_ = __webpack_require__(4);
+var Button__default = /*#__PURE__*/__webpack_require__.n(Button_);
+
+// EXTERNAL MODULE: external "@material-ui/core/Container"
+var Container_ = __webpack_require__(5);
+var Container__default = /*#__PURE__*/__webpack_require__.n(Container_);
+
+// EXTERNAL MODULE: external "@material-ui/core/Typography"
+var Typography_ = __webpack_require__(6);
+var Typography__default = /*#__PURE__*/__webpack_require__.n(Typography_);
+
+// EXTERNAL MODULE: external "@material-ui/core/Box"
+var Box_ = __webpack_require__(7);
+var Box__default = /*#__PURE__*/__webpack_require__.n(Box_);
+
+// EXTERNAL MODULE: external "next-redux-wrapper"
+var external__next_redux_wrapper_ = __webpack_require__(8);
+var external__next_redux_wrapper__default = /*#__PURE__*/__webpack_require__.n(external__next_redux_wrapper_);
+
+// EXTERNAL MODULE: external "react-simple-maps"
+var external__react_simple_maps_ = __webpack_require__(9);
+var external__react_simple_maps__default = /*#__PURE__*/__webpack_require__.n(external__react_simple_maps_);
+
+// EXTERNAL MODULE: external "d3-scale"
+var external__d3_scale_ = __webpack_require__(10);
+var external__d3_scale__default = /*#__PURE__*/__webpack_require__.n(external__d3_scale_);
+
+// EXTERNAL MODULE: external "react-tooltip"
+var external__react_tooltip_ = __webpack_require__(11);
+var external__react_tooltip__default = /*#__PURE__*/__webpack_require__.n(external__react_tooltip_);
+
+// CONCATENATED MODULE: ./map-backup/SchoolCyberSafetyMap.js
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -118,16 +162,16 @@ var wrapperStyles = {
     textAlign: "left"
 
 };
-var okresScale = Object(__WEBPACK_IMPORTED_MODULE_4_d3_scale__["scaleLinear"])().domain([40169, 40600, 40924]).range(["#006344", "#D8A800", "#BD3B1B"]);
+var okresScale = Object(external__d3_scale_["scaleLinear"])().domain([40169, 40600, 40924]).range(["#006344", "#D8A800", "#BD3B1B"]);
 
-var SchoolCyberSafetyMap = function (_Component) {
+var SchoolCyberSafetyMap_SchoolCyberSafetyMap = function (_Component) {
     _inherits(SchoolCyberSafetyMap, _Component);
 
     _createClass(SchoolCyberSafetyMap, [{
         key: "componentDidMount",
         value: function componentDidMount() {
             setTimeout(function () {
-                __WEBPACK_IMPORTED_MODULE_5_react_tooltip___default.a.rebuild();
+                external__react_tooltip__default.a.rebuild();
             }, 100);
         }
     }]);
@@ -173,22 +217,22 @@ var SchoolCyberSafetyMap = function (_Component) {
     }, {
         key: "render",
         value: function render() {
-            return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+            return external__react__default.a.createElement(
                 "div",
                 { style: wrapperStyles },
-                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                external__react__default.a.createElement(
                     "button",
                     { onClick: this.handleZoomIn },
                     "Zoom in"
                 ),
-                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+                external__react__default.a.createElement(
                     "button",
                     { onClick: this.handleZoomOut },
                     "Zoom out"
                 ),
-                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("hr", null),
-                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
-                    __WEBPACK_IMPORTED_MODULE_3_react_simple_maps__["ComposableMap"],
+                external__react__default.a.createElement("hr", null),
+                external__react__default.a.createElement(
+                    external__react_simple_maps_["ComposableMap"],
                     {
                         projectionConfig: {
                             scale: 205,
@@ -201,19 +245,19 @@ var SchoolCyberSafetyMap = function (_Component) {
                             height: "auto"
                         }
                     },
-                    __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
-                        __WEBPACK_IMPORTED_MODULE_3_react_simple_maps__["ZoomableGroup"],
+                    external__react__default.a.createElement(
+                        external__react_simple_maps_["ZoomableGroup"],
                         { center: [15.5, 49.9],
                             zoom: this.state.zoom,
                             onMoveStart: this.handleMoveStart,
                             onMoveEnd: this.handleMoveEnd
                         },
-                        __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
-                            __WEBPACK_IMPORTED_MODULE_3_react_simple_maps__["Geographies"],
+                        external__react__default.a.createElement(
+                            external__react_simple_maps_["Geographies"],
                             { geography: "/static/okresy.json" },
                             function (geographies, projection) {
                                 return geographies.map(function (geography, i) {
-                                    return geography.id !== "ATA" && __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3_react_simple_maps__["Geography"], {
+                                    return geography.id !== "ATA" && external__react__default.a.createElement(external__react_simple_maps_["Geography"], {
                                         key: i,
                                         "data-tip": "Okres: " + geography.properties.NAZ_LAU1 + "<br />Kraj: " + geography.properties.NAZ_CZNUTS3 + "<br />KOD: " + geography.properties.KOD_OKRES,
                                         geography: geography,
@@ -253,48 +297,89 @@ var SchoolCyberSafetyMap = function (_Component) {
                         )
                     )
                 ),
-                __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_5_react_tooltip___default.a, { multiline: true, place: 'left' })
+                external__react__default.a.createElement(external__react_tooltip__default.a, { multiline: true, place: 'left' })
             );
         }
     }]);
 
     return SchoolCyberSafetyMap;
-}(__WEBPACK_IMPORTED_MODULE_0_react__["Component"]);
+}(external__react_["Component"]);
 
-/* harmony default export */ __webpack_exports__["default"] = (SchoolCyberSafetyMap);
+/* harmony default export */ var map_backup_SchoolCyberSafetyMap = (external__react__default.a.forwardRef(function (props, ref) {
+    return external__react__default.a.createElement(SchoolCyberSafetyMap_SchoolCyberSafetyMap, _extends({}, props, { innerRef: ref }));
+}));
+// export default SchoolCyberSafetyMap
+// CONCATENATED MODULE: ./pages/index.js
+/* harmony export (immutable) */ __webpack_exports__["default"] = Index;
 
-/***/ }),
-/* 2 */
-/***/ (function(module, exports) {
 
-module.exports = require("react");
 
-/***/ }),
-/* 3 */
-/***/ (function(module, exports) {
 
-module.exports = require("react-dom");
+
+
+
+
+function Index() {
+    return external__react__default.a.createElement(
+        Container__default.a,
+        { maxWidth: "sm" },
+        external__react__default.a.createElement(
+            Box__default.a,
+            { my: 4 },
+            external__react__default.a.createElement(
+                Typography__default.a,
+                { variant: "h4", component: "h1", gutterBottom: true },
+                "Next.js example"
+            ),
+            external__react__default.a.createElement(map_backup_SchoolCyberSafetyMap, null)
+        )
+    );
+}
 
 /***/ }),
 /* 4 */
 /***/ (function(module, exports) {
 
-module.exports = require("next-redux-wrapper");
+module.exports = require("@material-ui/core/Button");
 
 /***/ }),
 /* 5 */
 /***/ (function(module, exports) {
 
-module.exports = require("react-simple-maps");
+module.exports = require("@material-ui/core/Container");
 
 /***/ }),
 /* 6 */
 /***/ (function(module, exports) {
 
-module.exports = require("d3-scale");
+module.exports = require("@material-ui/core/Typography");
 
 /***/ }),
 /* 7 */
+/***/ (function(module, exports) {
+
+module.exports = require("@material-ui/core/Box");
+
+/***/ }),
+/* 8 */
+/***/ (function(module, exports) {
+
+module.exports = require("next-redux-wrapper");
+
+/***/ }),
+/* 9 */
+/***/ (function(module, exports) {
+
+module.exports = require("react-simple-maps");
+
+/***/ }),
+/* 10 */
+/***/ (function(module, exports) {
+
+module.exports = require("d3-scale");
+
+/***/ }),
+/* 11 */
 /***/ (function(module, exports) {
 
 module.exports = require("react-tooltip");
