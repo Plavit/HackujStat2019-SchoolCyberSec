@@ -1,11 +1,14 @@
 {
   "name": "CZ-map",
   "version": "1.0.0",
-  "description": "Example of using react-simple-maps to create a basic world map.",
+  "description": "Czech High School CyberSec map",
   "main": "index.js",
+  "homepage": "https://plavit.github.io/HackujStat2019-SchoolCyberSec/",
   "scripts": {
     "dev": "next",
+    "predeploy": "yarn run build",
     "build": "next build",
+    "deploy": "gh-pages -d .next",
     "start": "next start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,16 +17,22 @@
   "license": "ISC",
   "dependencies": {
     "@material-ui/core": "latest",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "@material-ui/icons": "^4.4.1",
     "d3-scale": "^1.0.6",
+    "gh-pages": "^2.1.1",
+    "harp": "^0.30.1",
     "material-ui": "^0.20.2",
+    "mdbreact": "^4.19.2",
     "next": "^5.1.0",
     "next-redux-wrapper": "1.3.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hot-loader": "^4.12.13",
     "react-redux": "5.0.6",
     "react-simple-maps": "~0.12.0",
     "react-tooltip": "^3.3.0",
     "redux": "3.7.2",
-    "redux-tooltip": "0.7.2"
+    "redux-tooltip": "0.7.2",
+    "yarn": "^1.17.3"
   }
 }

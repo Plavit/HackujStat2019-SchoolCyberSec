@@ -27,7 +27,10 @@
             "NAZ_LAU1": "Benešov",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -51,7 +54,10 @@
             "NAZ_LAU1": "Beroun",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -76,7 +82,10 @@
             "NAZ_LAU1": "Kladno",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -101,7 +110,10 @@
             "NAZ_LAU1": "Kolín",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -127,7 +139,10 @@
             "NAZ_LAU1": "Kutná Hora",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -151,7 +166,10 @@
             "NAZ_LAU1": "Mělník",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -176,7 +194,10 @@
             "NAZ_LAU1": "Mladá Boleslav",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -201,7 +222,10 @@
             "NAZ_LAU1": "Nymburk",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -232,7 +256,10 @@
             "NAZ_LAU1": "Praha-východ",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -261,7 +288,10 @@
             "NAZ_LAU1": "Praha-západ",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -288,7 +318,10 @@
             "NAZ_LAU1": "Příbram",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -312,7 +345,10 @@
             "NAZ_LAU1": "Rakovník",
             "KOD_KRAJ": "3026",
             "KOD_CZNUTS3": "CZ020",
-            "NAZ_CZNUTS3": "Středočeský kraj"
+            "NAZ_CZNUTS3": "Středočeský kraj",
+            "STAT_KRAJ_SKOLY": "155",
+            "STAT_KRAJ_SIFRUJI": "61",
+            "STAT_KRAJ_POMER": "39%"
           }
         },
         {
@@ -337,7 +373,10 @@
             "NAZ_LAU1": "České Budějovice",
             "KOD_KRAJ": "3034",
             "KOD_CZNUTS3": "CZ031",
-            "NAZ_CZNUTS3": "Jihočeský kraj"
+            "NAZ_CZNUTS3": "Jihočeský kraj",
+            "STAT_KRAJ_SKOLY": "90",
+            "STAT_KRAJ_SIFRUJI": "50",
+            "STAT_KRAJ_POMER": "55%"
           }
         },
         {
@@ -357,7 +396,10 @@
             "NAZ_LAU1": "Český Krumlov",
             "KOD_KRAJ": "3034",
             "KOD_CZNUTS3": "CZ031",
-            "NAZ_CZNUTS3": "Jihočeský kraj"
+            "NAZ_CZNUTS3": "Jihočeský kraj",
+            "STAT_KRAJ_SKOLY": "90",
+            "STAT_KRAJ_SIFRUJI": "50",
+            "STAT_KRAJ_POMER": "55%"
           }
         },
         {
@@ -383,7 +425,10 @@
             "NAZ_LAU1": "Jindřichův Hradec",
             "KOD_KRAJ": "3034",
             "KOD_CZNUTS3": "CZ031",
-            "NAZ_CZNUTS3": "Jihočeský kraj"
+            "NAZ_CZNUTS3": "Jihočeský kraj",
+            "STAT_KRAJ_SKOLY": "90",
+            "STAT_KRAJ_SIFRUJI": "50",
+            "STAT_KRAJ_POMER": "55%"
           }
         },
         {
@@ -404,7 +449,10 @@
             "NAZ_LAU1": "Písek",
             "KOD_KRAJ": "3034",
             "KOD_CZNUTS3": "CZ031",
-            "NAZ_CZNUTS3": "Jihočeský kraj"
+            "NAZ_CZNUTS3": "Jihočeský kraj",
+            "STAT_KRAJ_SKOLY": "90",
+            "STAT_KRAJ_SIFRUJI": "50",
+            "STAT_KRAJ_POMER": "55%"
           }
         },
         {
@@ -428,7 +476,10 @@
             "NAZ_LAU1": "Prachatice",
             "KOD_KRAJ": "3034",
             "KOD_CZNUTS3": "CZ031",
-            "NAZ_CZNUTS3": "Jihočeský kraj"
+            "NAZ_CZNUTS3": "Jihočeský kraj",
+            "STAT_KRAJ_SKOLY": "90",
+            "STAT_KRAJ_SIFRUJI": "50",
+            "STAT_KRAJ_POMER": "55%"
           }
         },
         {
@@ -453,7 +504,10 @@
             "NAZ_LAU1": "Strakonice",
             "KOD_KRAJ": "3034",
             "KOD_CZNUTS3": "CZ031",
-            "NAZ_CZNUTS3": "Jihočeský kraj"
+            "NAZ_CZNUTS3": "Jihočeský kraj",
+            "STAT_KRAJ_SKOLY": "90",
+            "STAT_KRAJ_SIFRUJI": "50",
+            "STAT_KRAJ_POMER": "55%"
           }
         },
         {
@@ -476,7 +530,10 @@
             "NAZ_LAU1": "Tábor",
             "KOD_KRAJ": "3034",
             "KOD_CZNUTS3": "CZ031",
-            "NAZ_CZNUTS3": "Jihočeský kraj"
+            "NAZ_CZNUTS3": "Jihočeský kraj",
+            "STAT_KRAJ_SKOLY": "90",
+            "STAT_KRAJ_SIFRUJI": "50",
+            "STAT_KRAJ_POMER": "55%"
           }
         },
         {
@@ -497,7 +554,10 @@
             "NAZ_LAU1": "Domažlice",
             "KOD_KRAJ": "3042",
             "KOD_CZNUTS3": "CZ032",
-            "NAZ_CZNUTS3": "Plzeňský kraj"
+            "NAZ_CZNUTS3": "Plzeňský kraj",
+            "STAT_KRAJ_SKOLY": "55",
+            "STAT_KRAJ_SIFRUJI": "23",
+            "STAT_KRAJ_POMER": "41%"
           }
         },
         {
@@ -520,7 +580,10 @@
             "NAZ_LAU1": "Klatovy",
             "KOD_KRAJ": "3042",
             "KOD_CZNUTS3": "CZ032",
-            "NAZ_CZNUTS3": "Plzeňský kraj"
+            "NAZ_CZNUTS3": "Plzeňský kraj",
+            "STAT_KRAJ_SKOLY": "55",
+            "STAT_KRAJ_SIFRUJI": "23",
+            "STAT_KRAJ_POMER": "41%"
           }
         },
         {
@@ -541,7 +604,10 @@
             "NAZ_LAU1": "Plzeň-město",
             "KOD_KRAJ": "3042",
             "KOD_CZNUTS3": "CZ032",
-            "NAZ_CZNUTS3": "Plzeňský kraj"
+            "NAZ_CZNUTS3": "Plzeňský kraj",
+            "STAT_KRAJ_SKOLY": "55",
+            "STAT_KRAJ_SIFRUJI": "23",
+            "STAT_KRAJ_POMER": "41%"
           }
         },
         {
@@ -566,7 +632,10 @@
             "NAZ_LAU1": "Plzeň-jih",
             "KOD_KRAJ": "3042",
             "KOD_CZNUTS3": "CZ032",
-            "NAZ_CZNUTS3": "Plzeňský kraj"
+            "NAZ_CZNUTS3": "Plzeňský kraj",
+            "STAT_KRAJ_SKOLY": "55",
+            "STAT_KRAJ_SIFRUJI": "23",
+            "STAT_KRAJ_POMER": "41%"
           }
         },
         {
@@ -595,7 +664,10 @@
             "NAZ_LAU1": "Plzeň-sever",
             "KOD_KRAJ": "3042",
             "KOD_CZNUTS3": "CZ032",
-            "NAZ_CZNUTS3": "Plzeňský kraj"
+            "NAZ_CZNUTS3": "Plzeňský kraj",
+            "STAT_KRAJ_SKOLY": "55",
+            "STAT_KRAJ_SIFRUJI": "23",
+            "STAT_KRAJ_POMER": "41%"
           }
         },
         {
@@ -621,7 +693,10 @@
             "NAZ_LAU1": "Rokycany",
             "KOD_KRAJ": "3042",
             "KOD_CZNUTS3": "CZ032",
-            "NAZ_CZNUTS3": "Plzeňský kraj"
+            "NAZ_CZNUTS3": "Plzeňský kraj",
+            "STAT_KRAJ_SKOLY": "55",
+            "STAT_KRAJ_SIFRUJI": "23",
+            "STAT_KRAJ_POMER": "41%"
           }
         },
         {
@@ -644,7 +719,10 @@
             "NAZ_LAU1": "Tachov",
             "KOD_KRAJ": "3042",
             "KOD_CZNUTS3": "CZ032",
-            "NAZ_CZNUTS3": "Plzeňský kraj"
+            "NAZ_CZNUTS3": "Plzeňský kraj",
+            "STAT_KRAJ_SKOLY": "55",
+            "STAT_KRAJ_SIFRUJI": "23",
+            "STAT_KRAJ_POMER": "41%"
           }
         },
         {
@@ -668,7 +746,10 @@
             "NAZ_LAU1": "Cheb",
             "KOD_KRAJ": "3051",
             "KOD_CZNUTS3": "CZ041",
-            "NAZ_CZNUTS3": "Karlovarský kraj"
+            "NAZ_CZNUTS3": "Karlovarský kraj",
+            "STAT_KRAJ_SKOLY": "33",
+            "STAT_KRAJ_SIFRUJI": "10",
+            "STAT_KRAJ_POMER": "30%"
           }
         },
         {
@@ -692,7 +773,10 @@
             "NAZ_LAU1": "Karlovy Vary",
             "KOD_KRAJ": "3051",
             "KOD_CZNUTS3": "CZ041",
-            "NAZ_CZNUTS3": "Karlovarský kraj"
+            "NAZ_CZNUTS3": "Karlovarský kraj",
+            "STAT_KRAJ_SKOLY": "33",
+            "STAT_KRAJ_SIFRUJI": "10",
+            "STAT_KRAJ_POMER": "30%"
           }
         },
         {
@@ -712,7 +796,10 @@
             "NAZ_LAU1": "Sokolov",
             "KOD_KRAJ": "3051",
             "KOD_CZNUTS3": "CZ041",
-            "NAZ_CZNUTS3": "Karlovarský kraj"
+            "NAZ_CZNUTS3": "Karlovarský kraj",
+            "STAT_KRAJ_SKOLY": "33",
+            "STAT_KRAJ_SIFRUJI": "10",
+            "STAT_KRAJ_POMER": "30%"
           }
         },
         {
@@ -734,7 +821,10 @@
             "NAZ_LAU1": "Děčín",
             "KOD_KRAJ": "3069",
             "KOD_CZNUTS3": "CZ042",
-            "NAZ_CZNUTS3": "Ústecký kraj"
+            "NAZ_CZNUTS3": "Ústecký kraj",
+            "STAT_KRAJ_SKOLY": "98",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "37%"
           }
         },
         {
@@ -756,7 +846,10 @@
             "NAZ_LAU1": "Chomutov",
             "KOD_KRAJ": "3069",
             "KOD_CZNUTS3": "CZ042",
-            "NAZ_CZNUTS3": "Ústecký kraj"
+            "NAZ_CZNUTS3": "Ústecký kraj",
+            "STAT_KRAJ_SKOLY": "98",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "37%"
           }
         },
         {
@@ -784,7 +877,10 @@
             "NAZ_LAU1": "Litoměřice",
             "KOD_KRAJ": "3069",
             "KOD_CZNUTS3": "CZ042",
-            "NAZ_CZNUTS3": "Ústecký kraj"
+            "NAZ_CZNUTS3": "Ústecký kraj",
+            "STAT_KRAJ_SKOLY": "98",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "37%"
           }
         },
         {
@@ -811,7 +907,10 @@
             "NAZ_LAU1": "Louny",
             "KOD_KRAJ": "3069",
             "KOD_CZNUTS3": "CZ042",
-            "NAZ_CZNUTS3": "Ústecký kraj"
+            "NAZ_CZNUTS3": "Ústecký kraj",
+            "STAT_KRAJ_SKOLY": "98",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "37%"
           }
         },
         {
@@ -833,7 +932,10 @@
             "NAZ_LAU1": "Most",
             "KOD_KRAJ": "3069",
             "KOD_CZNUTS3": "CZ042",
-            "NAZ_CZNUTS3": "Ústecký kraj"
+            "NAZ_CZNUTS3": "Ústecký kraj",
+            "STAT_KRAJ_SKOLY": "98",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "37%"
           }
         },
         {
@@ -856,7 +958,10 @@
             "NAZ_LAU1": "Teplice",
             "KOD_KRAJ": "3069",
             "KOD_CZNUTS3": "CZ042",
-            "NAZ_CZNUTS3": "Ústecký kraj"
+            "NAZ_CZNUTS3": "Ústecký kraj",
+            "STAT_KRAJ_SKOLY": "98",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "37%"
           }
         },
         {
@@ -878,7 +983,10 @@
             "NAZ_LAU1": "Ústí nad Labem",
             "KOD_KRAJ": "3069",
             "KOD_CZNUTS3": "CZ042",
-            "NAZ_CZNUTS3": "Ústecký kraj"
+            "NAZ_CZNUTS3": "Ústecký kraj",
+            "STAT_KRAJ_SKOLY": "98",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "37%"
           }
         },
         {
@@ -902,7 +1010,10 @@
             "NAZ_LAU1": "Česká Lípa",
             "KOD_KRAJ": "3077",
             "KOD_CZNUTS3": "CZ051",
-            "NAZ_CZNUTS3": "Liberecký kraj"
+            "NAZ_CZNUTS3": "Liberecký kraj",
+            "STAT_KRAJ_SKOLY": "51",
+            "STAT_KRAJ_SIFRUJI": "25",
+            "STAT_KRAJ_POMER": "49%"
           }
         },
         {
@@ -922,7 +1033,10 @@
             "NAZ_LAU1": "Jablonec nad Nisou",
             "KOD_KRAJ": "3077",
             "KOD_CZNUTS3": "CZ051",
-            "NAZ_CZNUTS3": "Liberecký kraj"
+            "NAZ_CZNUTS3": "Liberecký kraj",
+            "STAT_KRAJ_SKOLY": "51",
+            "STAT_KRAJ_SIFRUJI": "25",
+            "STAT_KRAJ_POMER": "49%"
           }
         },
         {
@@ -944,7 +1058,10 @@
             "NAZ_LAU1": "Liberec",
             "KOD_KRAJ": "3077",
             "KOD_CZNUTS3": "CZ051",
-            "NAZ_CZNUTS3": "Liberecký kraj"
+            "NAZ_CZNUTS3": "Liberecký kraj",
+            "STAT_KRAJ_SKOLY": "51",
+            "STAT_KRAJ_SIFRUJI": "25",
+            "STAT_KRAJ_POMER": "49%"
           }
         },
         {
@@ -968,7 +1085,10 @@
             "NAZ_LAU1": "Semily",
             "KOD_KRAJ": "3077",
             "KOD_CZNUTS3": "CZ051",
-            "NAZ_CZNUTS3": "Liberecký kraj"
+            "NAZ_CZNUTS3": "Liberecký kraj",
+            "STAT_KRAJ_SKOLY": "51",
+            "STAT_KRAJ_SIFRUJI": "25",
+            "STAT_KRAJ_POMER": "49%"
           }
         },
         {
@@ -995,7 +1115,10 @@
             "NAZ_LAU1": "Hradec Králové",
             "KOD_KRAJ": "3085",
             "KOD_CZNUTS3": "CZ052",
-            "NAZ_CZNUTS3": "Královéhradecký kraj"
+            "NAZ_CZNUTS3": "Královéhradecký kraj",
+            "STAT_KRAJ_SKOLY": "74",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "50%"
           }
         },
         {
@@ -1018,7 +1141,10 @@
             "NAZ_LAU1": "Jičín",
             "KOD_KRAJ": "3085",
             "KOD_CZNUTS3": "CZ052",
-            "NAZ_CZNUTS3": "Královéhradecký kraj"
+            "NAZ_CZNUTS3": "Královéhradecký kraj",
+            "STAT_KRAJ_SKOLY": "74",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "50%"
           }
         },
         {
@@ -1040,7 +1166,10 @@
             "NAZ_LAU1": "Náchod",
             "KOD_KRAJ": "3085",
             "KOD_CZNUTS3": "CZ052",
-            "NAZ_CZNUTS3": "Královéhradecký kraj"
+            "NAZ_CZNUTS3": "Královéhradecký kraj",
+            "STAT_KRAJ_SKOLY": "74",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "50%"
           }
         },
         {
@@ -1063,7 +1192,10 @@
             "NAZ_LAU1": "Rychnov nad Kněžnou",
             "KOD_KRAJ": "3085",
             "KOD_CZNUTS3": "CZ052",
-            "NAZ_CZNUTS3": "Královéhradecký kraj"
+            "NAZ_CZNUTS3": "Královéhradecký kraj",
+            "STAT_KRAJ_SKOLY": "74",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "50%"
           }
         },
         {
@@ -1086,7 +1218,10 @@
             "NAZ_LAU1": "Trutnov",
             "KOD_KRAJ": "3085",
             "KOD_CZNUTS3": "CZ052",
-            "NAZ_CZNUTS3": "Královéhradecký kraj"
+            "NAZ_CZNUTS3": "Královéhradecký kraj",
+            "STAT_KRAJ_SKOLY": "74",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "50%"
           }
         },
         {
@@ -1111,7 +1246,10 @@
             "NAZ_LAU1": "Chrudim",
             "KOD_KRAJ": "3093",
             "KOD_CZNUTS3": "CZ053",
-            "NAZ_CZNUTS3": "Pardubický kraj"
+            "NAZ_CZNUTS3": "Pardubický kraj",
+            "STAT_KRAJ_SKOLY": "74",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "50%"
           }
         },
         {
@@ -1136,7 +1274,10 @@
             "NAZ_LAU1": "Pardubice",
             "KOD_KRAJ": "3093",
             "KOD_CZNUTS3": "CZ053",
-            "NAZ_CZNUTS3": "Pardubický kraj"
+            "NAZ_CZNUTS3": "Pardubický kraj",
+            "STAT_KRAJ_SKOLY": "74",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "50%"
           }
         },
         {
@@ -1162,7 +1303,10 @@
             "NAZ_LAU1": "Svitavy",
             "KOD_KRAJ": "3093",
             "KOD_CZNUTS3": "CZ053",
-            "NAZ_CZNUTS3": "Pardubický kraj"
+            "NAZ_CZNUTS3": "Pardubický kraj",
+            "STAT_KRAJ_SKOLY": "74",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "50%"
           }
         },
         {
@@ -1185,7 +1329,10 @@
             "NAZ_LAU1": "Ústí nad Orlicí",
             "KOD_KRAJ": "3093",
             "KOD_CZNUTS3": "CZ053",
-            "NAZ_CZNUTS3": "Pardubický kraj"
+            "NAZ_CZNUTS3": "Pardubický kraj",
+            "STAT_KRAJ_SKOLY": "74",
+            "STAT_KRAJ_SIFRUJI": "37",
+            "STAT_KRAJ_POMER": "50%"
           }
         },
         {
@@ -1209,7 +1356,10 @@
             "NAZ_LAU1": "Havlíčkův Brod",
             "KOD_KRAJ": "3107",
             "KOD_CZNUTS3": "CZ063",
-            "NAZ_CZNUTS3": "Kraj Vysočina"
+            "NAZ_CZNUTS3": "Kraj Vysočina",
+            "STAT_KRAJ_SKOLY": "66",
+            "STAT_KRAJ_SIFRUJI": "34",
+            "STAT_KRAJ_POMER": "51%"
           }
         },
         {
@@ -1234,7 +1384,10 @@
             "NAZ_LAU1": "Jihlava",
             "KOD_KRAJ": "3107",
             "KOD_CZNUTS3": "CZ063",
-            "NAZ_CZNUTS3": "Kraj Vysočina"
+            "NAZ_CZNUTS3": "Kraj Vysočina",
+            "STAT_KRAJ_SKOLY": "66",
+            "STAT_KRAJ_SIFRUJI": "34",
+            "STAT_KRAJ_POMER": "51%"
           }
         },
         {
@@ -1257,7 +1410,10 @@
             "NAZ_LAU1": "Pelhřimov",
             "KOD_KRAJ": "3107",
             "KOD_CZNUTS3": "CZ063",
-            "NAZ_CZNUTS3": "Kraj Vysočina"
+            "NAZ_CZNUTS3": "Kraj Vysočina",
+            "STAT_KRAJ_SKOLY": "66",
+            "STAT_KRAJ_SIFRUJI": "34",
+            "STAT_KRAJ_POMER": "51%"
           }
         },
         {
@@ -1282,7 +1438,10 @@
             "NAZ_LAU1": "Třebíč",
             "KOD_KRAJ": "3107",
             "KOD_CZNUTS3": "CZ063",
-            "NAZ_CZNUTS3": "Kraj Vysočina"
+            "NAZ_CZNUTS3": "Kraj Vysočina",
+            "STAT_KRAJ_SKOLY": "66",
+            "STAT_KRAJ_SIFRUJI": "34",
+            "STAT_KRAJ_POMER": "51%"
           }
         },
         {
@@ -1309,7 +1468,10 @@
             "NAZ_LAU1": "Žďár nad Sázavou",
             "KOD_KRAJ": "3107",
             "KOD_CZNUTS3": "CZ063",
-            "NAZ_CZNUTS3": "Kraj Vysočina"
+            "NAZ_CZNUTS3": "Kraj Vysočina",
+            "STAT_KRAJ_SKOLY": "66",
+            "STAT_KRAJ_SIFRUJI": "34",
+            "STAT_KRAJ_POMER": "51%"
           }
         },
         {
@@ -1335,7 +1497,10 @@
             "NAZ_LAU1": "Blansko",
             "KOD_KRAJ": "3115",
             "KOD_CZNUTS3": "CZ064",
-            "NAZ_CZNUTS3": "Jihomoravský kraj"
+            "NAZ_CZNUTS3": "Jihomoravský kraj",
+            "STAT_KRAJ_SKOLY": "124",
+            "STAT_KRAJ_SIFRUJI": "42",
+            "STAT_KRAJ_POMER": "33%"
           }
         },
         {
@@ -1353,7 +1518,10 @@
             "NAZ_LAU1": "Brno-město",
             "KOD_KRAJ": "3115",
             "KOD_CZNUTS3": "CZ064",
-            "NAZ_CZNUTS3": "Jihomoravský kraj"
+            "NAZ_CZNUTS3": "Jihomoravský kraj",
+            "STAT_KRAJ_SKOLY": "124",
+            "STAT_KRAJ_SIFRUJI": "42",
+            "STAT_KRAJ_POMER": "33%"
           }
         },
         {
@@ -1384,7 +1552,10 @@
             "NAZ_LAU1": "Brno-venkov",
             "KOD_KRAJ": "3115",
             "KOD_CZNUTS3": "CZ064",
-            "NAZ_CZNUTS3": "Jihomoravský kraj"
+            "NAZ_CZNUTS3": "Jihomoravský kraj",
+            "STAT_KRAJ_SKOLY": "124",
+            "STAT_KRAJ_SIFRUJI": "42",
+            "STAT_KRAJ_POMER": "33%"
           }
         },
         {
@@ -1408,7 +1579,10 @@
             "NAZ_LAU1": "Břeclav",
             "KOD_KRAJ": "3115",
             "KOD_CZNUTS3": "CZ064",
-            "NAZ_CZNUTS3": "Jihomoravský kraj"
+            "NAZ_CZNUTS3": "Jihomoravský kraj",
+            "STAT_KRAJ_SKOLY": "124",
+            "STAT_KRAJ_SIFRUJI": "42",
+            "STAT_KRAJ_POMER": "33%"
           }
         },
         {
@@ -1432,7 +1606,10 @@
             "NAZ_LAU1": "Hodonín",
             "KOD_KRAJ": "3115",
             "KOD_CZNUTS3": "CZ064",
-            "NAZ_CZNUTS3": "Jihomoravský kraj"
+            "NAZ_CZNUTS3": "Jihomoravský kraj",
+            "STAT_KRAJ_SKOLY": "124",
+            "STAT_KRAJ_SIFRUJI": "42",
+            "STAT_KRAJ_POMER": "33%"
           }
         },
         {
@@ -1459,7 +1636,10 @@
             "NAZ_LAU1": "Vyškov",
             "KOD_KRAJ": "3115",
             "KOD_CZNUTS3": "CZ064",
-            "NAZ_CZNUTS3": "Jihomoravský kraj"
+            "NAZ_CZNUTS3": "Jihomoravský kraj",
+            "STAT_KRAJ_SKOLY": "124",
+            "STAT_KRAJ_SIFRUJI": "42",
+            "STAT_KRAJ_POMER": "33%"
           }
         },
         {
@@ -1482,7 +1662,10 @@
             "NAZ_LAU1": "Znojmo",
             "KOD_KRAJ": "3115",
             "KOD_CZNUTS3": "CZ064",
-            "NAZ_CZNUTS3": "Jihomoravský kraj"
+            "NAZ_CZNUTS3": "Jihomoravský kraj",
+            "STAT_KRAJ_SKOLY": "124",
+            "STAT_KRAJ_SIFRUJI": "42",
+            "STAT_KRAJ_POMER": "33%"
           }
         },
         {
@@ -1502,7 +1685,10 @@
             "NAZ_LAU1": "Jeseník",
             "KOD_KRAJ": "3123",
             "KOD_CZNUTS3": "CZ071",
-            "NAZ_CZNUTS3": "Olomoucký kraj"
+            "NAZ_CZNUTS3": "Olomoucký kraj",
+            "STAT_KRAJ_SKOLY": "94",
+            "STAT_KRAJ_SIFRUJI": "38",
+            "STAT_KRAJ_POMER": "40%"
           }
         },
         {
@@ -1528,7 +1714,10 @@
             "NAZ_LAU1": "Olomouc",
             "KOD_KRAJ": "3123",
             "KOD_CZNUTS3": "CZ071",
-            "NAZ_CZNUTS3": "Olomoucký kraj"
+            "NAZ_CZNUTS3": "Olomoucký kraj",
+            "STAT_KRAJ_SKOLY": "94",
+            "STAT_KRAJ_SIFRUJI": "38",
+            "STAT_KRAJ_POMER": "40%"
           }
         },
         {
@@ -1555,7 +1744,10 @@
             "NAZ_LAU1": "Prostějov",
             "KOD_KRAJ": "3123",
             "KOD_CZNUTS3": "CZ071",
-            "NAZ_CZNUTS3": "Olomoucký kraj"
+            "NAZ_CZNUTS3": "Olomoucký kraj",
+            "STAT_KRAJ_SKOLY": "94",
+            "STAT_KRAJ_SIFRUJI": "38",
+            "STAT_KRAJ_POMER": "40%"
           }
         },
         {
@@ -1579,7 +1771,10 @@
             "NAZ_LAU1": "Přerov",
             "KOD_KRAJ": "3123",
             "KOD_CZNUTS3": "CZ071",
-            "NAZ_CZNUTS3": "Olomoucký kraj"
+            "NAZ_CZNUTS3": "Olomoucký kraj",
+            "STAT_KRAJ_SKOLY": "94",
+            "STAT_KRAJ_SIFRUJI": "38",
+            "STAT_KRAJ_POMER": "40%"
           }
         },
         {
@@ -1602,7 +1797,10 @@
             "NAZ_LAU1": "Šumperk",
             "KOD_KRAJ": "3123",
             "KOD_CZNUTS3": "CZ071",
-            "NAZ_CZNUTS3": "Olomoucký kraj"
+            "NAZ_CZNUTS3": "Olomoucký kraj",
+            "STAT_KRAJ_SKOLY": "94",
+            "STAT_KRAJ_SIFRUJI": "38",
+            "STAT_KRAJ_POMER": "40%"
           }
         },
         {
@@ -1629,7 +1827,10 @@
             "NAZ_LAU1": "Kroměříž",
             "KOD_KRAJ": "3131",
             "KOD_CZNUTS3": "CZ072",
-            "NAZ_CZNUTS3": "Zlínský kraj"
+            "NAZ_CZNUTS3": "Zlínský kraj",
+            "STAT_KRAJ_SKOLY": "70",
+            "STAT_KRAJ_SIFRUJI": "32",
+            "STAT_KRAJ_POMER": "45%"
           }
         },
         {
@@ -1651,7 +1852,10 @@
             "NAZ_LAU1": "Uherské Hradiště",
             "KOD_KRAJ": "3131",
             "KOD_CZNUTS3": "CZ072",
-            "NAZ_CZNUTS3": "Zlínský kraj"
+            "NAZ_CZNUTS3": "Zlínský kraj",
+            "STAT_KRAJ_SKOLY": "70",
+            "STAT_KRAJ_SIFRUJI": "32",
+            "STAT_KRAJ_POMER": "45%"
           }
         },
         {
@@ -1675,7 +1879,10 @@
             "NAZ_LAU1": "Vsetín",
             "KOD_KRAJ": "3131",
             "KOD_CZNUTS3": "CZ072",
-            "NAZ_CZNUTS3": "Zlínský kraj"
+            "NAZ_CZNUTS3": "Zlínský kraj",
+            "STAT_KRAJ_SKOLY": "70",
+            "STAT_KRAJ_SIFRUJI": "32",
+            "STAT_KRAJ_POMER": "45%"
           }
         },
         {
@@ -1696,7 +1903,10 @@
             "NAZ_LAU1": "Zlín",
             "KOD_KRAJ": "3131",
             "KOD_CZNUTS3": "CZ072",
-            "NAZ_CZNUTS3": "Zlínský kraj"
+            "NAZ_CZNUTS3": "Zlínský kraj",
+            "STAT_KRAJ_SKOLY": "70",
+            "STAT_KRAJ_SIFRUJI": "32",
+            "STAT_KRAJ_POMER": "45%"
           }
         },
         {
@@ -1718,7 +1928,10 @@
             "NAZ_LAU1": "Bruntál",
             "KOD_KRAJ": "3140",
             "KOD_CZNUTS3": "CZ080",
-            "NAZ_CZNUTS3": "Moravskoslezský kraj"
+            "NAZ_CZNUTS3": "Moravskoslezský kraj",
+            "STAT_KRAJ_SKOLY": "137",
+            "STAT_KRAJ_SIFRUJI": "58",
+            "STAT_KRAJ_POMER": "42%"
           }
         },
         {
@@ -1741,7 +1954,10 @@
             "NAZ_LAU1": "Frýdek-Místek",
             "KOD_KRAJ": "3140",
             "KOD_CZNUTS3": "CZ080",
-            "NAZ_CZNUTS3": "Moravskoslezský kraj"
+            "NAZ_CZNUTS3": "Moravskoslezský kraj",
+            "STAT_KRAJ_SKOLY": "137",
+            "STAT_KRAJ_SIFRUJI": "58",
+            "STAT_KRAJ_POMER": "42%"
           }
         },
         {
@@ -1764,7 +1980,10 @@
             "NAZ_LAU1": "Karviná",
             "KOD_KRAJ": "3140",
             "KOD_CZNUTS3": "CZ080",
-            "NAZ_CZNUTS3": "Moravskoslezský kraj"
+            "NAZ_CZNUTS3": "Moravskoslezský kraj",
+            "STAT_KRAJ_SKOLY": "137",
+            "STAT_KRAJ_SIFRUJI": "58",
+            "STAT_KRAJ_POMER": "42%"
           }
         },
         {
@@ -1790,7 +2009,10 @@
             "NAZ_LAU1": "Nový Jičín",
             "KOD_KRAJ": "3140",
             "KOD_CZNUTS3": "CZ080",
-            "NAZ_CZNUTS3": "Moravskoslezský kraj"
+            "NAZ_CZNUTS3": "Moravskoslezský kraj",
+            "STAT_KRAJ_SKOLY": "137",
+            "STAT_KRAJ_SIFRUJI": "58",
+            "STAT_KRAJ_POMER": "42%"
           }
         },
         {
@@ -1815,7 +2037,10 @@
             "NAZ_LAU1": "Opava",
             "KOD_KRAJ": "3140",
             "KOD_CZNUTS3": "CZ080",
-            "NAZ_CZNUTS3": "Moravskoslezský kraj"
+            "NAZ_CZNUTS3": "Moravskoslezský kraj",
+            "STAT_KRAJ_SKOLY": "137",
+            "STAT_KRAJ_SIFRUJI": "58",
+            "STAT_KRAJ_POMER": "42%"
           }
         },
         {
@@ -1839,7 +2064,10 @@
             "NAZ_LAU1": "Ostrava-město",
             "KOD_KRAJ": "3140",
             "KOD_CZNUTS3": "CZ080",
-            "NAZ_CZNUTS3": "Moravskoslezský kraj"
+            "NAZ_CZNUTS3": "Moravskoslezský kraj",
+            "STAT_KRAJ_SKOLY": "137",
+            "STAT_KRAJ_SIFRUJI": "58",
+            "STAT_KRAJ_POMER": "42%"
           }
         },
         {
@@ -1860,7 +2088,10 @@
             "NAZ_LAU1": "Praha",
             "KOD_KRAJ": "3018",
             "KOD_CZNUTS3": "CZ010",
-            "NAZ_CZNUTS3": "Hlavní město Praha"
+            "NAZ_CZNUTS3": "Hlavní město Praha",
+            "STAT_KRAJ_SKOLY": "188",
+            "STAT_KRAJ_SIFRUJI": "77",
+            "STAT_KRAJ_POMER": "40%"
           }
         }
       ]
