@@ -33,6 +33,6 @@
     "react-tooltip": "^3.3.0",
     "redux": "3.7.2",
     "redux-tooltip": "0.7.2",
-    "yarn": "^1.22.0"
+    "yarn": "^1.22.13"
   }
 }
