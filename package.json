@@ -32,7 +32,7 @@
     "react-simple-maps": "~0.12.0",
     "react-tooltip": "^3.3.0",
     "redux": "3.7.2",
-    "redux-tooltip": "0.7.2",
-    "yarn": "^1.22.13"
+    "redux-tooltip": "0.7.3",
+    "yarn": "^1.22.0"
   }
 }
